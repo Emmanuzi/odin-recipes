@@ -18,6 +18,9 @@ https://emmanuzi.github.io/odin-recipes/
 
 ## What I Learned;
 
+- how to use command line as a developer
 - Structuring multi-page HTML sites
 - Working with relative links between pages
 - Organizing images and assets
+- Writing good commit messages
+- Interacting with git and github
